@@ -1,0 +1,2 @@
+# hokkey_game
+これはReadMeです.
